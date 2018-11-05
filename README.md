@@ -1,0 +1,2 @@
+# wiki
+CoinMover Support Wiki
